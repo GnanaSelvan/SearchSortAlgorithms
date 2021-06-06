@@ -6,7 +6,7 @@ namespace SearchSortAlgorithms
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Bubble Sort");
 
             int[] unsortedarray = { 1, 3, 4, 7, 5, 4, 8 };
             int i;
